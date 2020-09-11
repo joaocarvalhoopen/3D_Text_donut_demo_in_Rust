@@ -357,7 +357,7 @@ slice-fill = "1.0.1"
 - [The Rust book](https://doc.rust-lang.org/book/)
 
 ## License
-For my part of the port is MIT Open License but the original code in C and in Javascript doesn't have a license written, that i could find.
+For my part of the port is MIT Open License but the original code in C and in Javascript doesn't have a license written, that I could find.
 
 ## Have fun!
 Best regards, <br>
